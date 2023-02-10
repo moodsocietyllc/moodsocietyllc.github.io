@@ -11589,17 +11589,17 @@ mix-blend-mode: luminosity;  }
   line-height: auto;
   letter-spacing: auto;
   background: inherit;
-  -webkit-text-fill-color: black;
+  -webkit-text-fill-color: white;
   -webkit-background-clip: text;
           background-clip: text;
 }
 .masthead h2, .masthead .h2 {
   max-width: 20rem;
-  font-size: 1rem;
+  font-size: 1.3rem;
   line-height: auto;
-  color: black;
+  color: white;
   letter-spacing: auto;
-  -webkit-text-fill-color: black;
+  -webkit-text-fill-color: WHITE;
   -webkit-background-clip: text;
           background-clip: text;
 }
@@ -11607,14 +11607,14 @@ mix-blend-mode: luminosity;  }
   .masthead h1, .masthead .h1 {
     font-size: 4rem;
     line-height: 4rem;
-    color: #000;
+    color: #FFF;
   }
 }
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
     padding: 0;
-    color: #000;
+    color: #FFF;
   }
 
   .masthead h1, .masthead .h1 {
